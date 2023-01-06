@@ -1,0 +1,51 @@
+.auth-logo {
+    text-align: center;
+    margin: 20px;
+}
+
+.auth-logo img {
+    max-width: 350px;
+}
+
+.auth-logo span {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.logo {
+    height: 72px;
+    margin: 16px;
+    text-align: center;
+}
+
+.logo-collapsed {
+    height: 50px;
+    margin: 16px;
+    text-align: center;
+}
+
+.logo img {
+    width: 72px;
+}
+
+.logo-collapsed img {
+    width: 50px;
+}
+
+.header-info {
+    /* color: #000; */
+    margin: 0 20px;
+}
+
+.header-info span {
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.mt-2 {
+    margin-top: 2em;
+}
+
+.mb-2 {
+    margin-bottom: 2em;
+}
